@@ -1,0 +1,150 @@
+{
+  "pays": "Italie",
+  "drapeau": "🇮🇹",
+  "symbole": "🍝",
+  "titre": "Escapade gourmande et relaxante à Bologne",
+  "budget_total": "570 €",
+  "duree": "3 jours",
+  "temps_vol": "1h45 depuis Paris, france",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et premières saveurs bolognaises",
+      "legende": "Débutez votre séjour en douceur par une immersion dans le cœur historique de Bologne. Flânez sur la majestueuse Piazza Maggiore, admirez l'architecture médiévale et laissez-vous tenter par les premières dégustations locales. Une journée légère pour s'acclimater à l'ambiance italienne et profiter de l'atmosphère unique de la ville.",
+      "lieu": "Bologne",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport de Bologne et transfert rapide vers le centre-ville.",
+        "<strong>🛏️</strong>: Installation à votre hôtel 3 étoiles, idéalement situé pour explorer la ville à pied.",
+        "<strong>🚶‍♀️</strong>: Balade relaxante sur la Piazza Maggiore et découverte de la Basilique San Petronio, emblème de Bologne.",
+        "<strong>🍷</strong>: Dîner typique dans une \"trattoria\" locale pour goûter les spécialités bolognaises comme les \"tagliatelle al ragù\"."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transport aéroport",
+          "texte": "Le \"Marconi Express\" relie l'aéroport au centre-ville (gare centrale) en seulement 7 minutes, une option rapide et pratique."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🧖‍♀️",
+      "titre": "Détente thermale et trésors cachés",
+      "legende": "Après une matinée gourmande au cœur des marchés, offrez-vous un moment de pure relaxation dans les eaux thermales. L'après-midi sera dédiée à la découverte des charmes cachés de Bologne, loin de l'agitation, pour une expérience authentique et apaisante. Une journée équilibrée entre plaisir des sens et bien-être.",
+      "lieu": "Bologne",
+      "activites": [
+        "<strong>🧀</strong>: Visite du Quadrilatero, le quartier des marchés historiques, pour une immersion gourmande et sensorielle au milieu des produits locaux.",
+        "<strong>🧖‍♀️</strong>: Après-midi détente aux Terme Felsinee, un havre de paix pour se ressourcer dans les piscines thermales (accès payant).",
+        "<strong>📚</strong>: Promenade dans le quartier universitaire, l'un des plus anciens d'Europe, pour son ambiance unique et ses librairies historiques."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Réservation aux thermes",
+          "texte": "Il est conseillé de réserver votre créneau aux thermes, surtout le week-end, pour garantir votre accès et profiter pleinement de l'expérience."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "⛪",
+      "titre": "Panoramas et départ en douceur",
+      "legende": "Profitez d'une dernière matinée pour admirer Bologne depuis les hauteurs du Sanctuaire de San Luca, accessible par une agréable promenade sous les portiques. Un moment de sérénité avant de reprendre le chemin de l'aéroport, la tête remplie de doux souvenirs et de saveurs italiennes. Une conclusion paisible à votre escapade.",
+      "lieu": "Bologne",
+      "activites": [
+        "<strong>🚶‍♂️</strong>: Montée au Sanctuaire de la Madonna di San Luca via le portique le plus long du monde, offrant des vues imprenables sur la ville et ses environs.",
+        "<strong>📸</strong>: Admirer le panorama depuis le sanctuaire et prendre quelques photos souvenirs de ce paysage emblématique de Bologne.",
+        "<strong>✈️</strong>: Transfert vers l'aéroport de Bologne pour votre vol retour vers Paris, la tête pleine de beaux souvenirs."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Accès au Sanctuaire",
+          "texte": "Le \"San Luca Express\" est un petit train touristique qui peut vous y emmener si vous préférez éviter la marche sous les portiques."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "A partir de 186 €/pers (A/R)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "Environ 35 €/pers (Marconi Express A/R, bus locaux)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "Environ 180 €/pers (3 jours, repas type \"moyen\")",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "Environ 125 €/pers (2 nuits en hôtel 3 étoiles, base double)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "Environ 40 €/pers (Thermes, San Luca Express optionnel)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Mai à Juin et Septembre à Octobre",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "En mai, les températures sont douces (12-23°C). Prévoir des couches de vêtements et un parapluie léger pour les averses occasionnelles.",
+      "symbole": "☀️"
+    },
+    {
+      "titre": "La monnaie est l'Euro (€). Les cartes bancaires sont largement acceptées, mais un peu de liquide est utile pour les petits commerces ou marchés.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "Bologne est une ville très agréable à explorer à pied. Le réseau de bus local (Tper) est efficace pour les distances plus longues ou pour rejoindre le sanctuaire de San Luca.",
+      "symbole": "🚶‍♀️"
+    },
+    {
+      "titre": "L'italien est la langue officielle. Quelques notions de base comme \"bonjour\" (buongiorno) ou \"merci\" (grazie) seront très appréciées par les locaux.",
+      "symbole": "🗣️"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Vols",
+      "titre": "Réserve ton vol",
+      "url": "https://www.kayak.fr/flights/CDG-BLQ/2026-05-18/2026-05-21",
+      "symbole": "🛬"
+    },
+    {
+      "legende": "Infos officielles et inspirations",
+      "titre": "Tourisme Bologne",
+      "url": "https://www.bolognawelcome.com/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Horaires des transports locaux",
+      "titre": "Tper (Transports Bologne)",
+      "url": "https://www.tper.it/",
+      "symbole": "🚆"
+    },
+    {
+      "legende": "Météo",
+      "titre": "Météo Bologne",
+      "url": "https://www.ilmeteo.it/meteo/Bologna",
+      "symbole": "🌤️"
+    }
+  ]
+}
